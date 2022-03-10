@@ -1,4 +1,3 @@
-import 'bootstrap/dist/css/bootstrap.css';
 
 const Navbar = () => {
     return (
@@ -13,7 +12,7 @@ const Navbar = () => {
                         <a className="nav-link" href="/conge">Conge</a>
                     </li>
                     <li className="nav-item">
-                        <a className="nav-link" href="#">Authorisation</a>
+                        <a className="nav-link" href="/authorisation">Authorisation</a>
                     </li>
                 </ul>
             </div>
